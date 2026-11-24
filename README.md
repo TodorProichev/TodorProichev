@@ -1,16 +1,27 @@
-## Hi there 👋
+# Todor Proychev
 
-<!--
-**TodorProichev/TodorProichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Design · Video Editing · Image Creation & Retouching**
 
-Here are some ideas to get you started:
+[Portfolio website](https://todorproichev.github.io/TodorProichev/) · [English PDF](https://github.com/TodorProichev/TodorProichev/blob/main/Todor-Proychev-Portfolio.pdf) · [Български PDF](https://github.com/TodorProichev/TodorProichev/blob/main/Todor-Proychev-Portfolio-BG.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a creative freelancer. I help creators and businesses design websites, edit videos, and make visuals for the web and social media.
+
+## Services
+
+| Service | How I can help |
+| --- | --- |
+| **Web design** | Visual concepts and layouts for homepages, landing pages, and portfolio sites |
+| **Video editing** | Trimming and arranging footage, plus text and captions for Reels, TikTok, and YouTube Shorts |
+| **Image creation and editing** | Visuals, retouching, color correction, and resizing for different formats |
+
+## Training and certification
+
+- AI literacy course by Dan Martell
+- Video editing course
+- Certificate in “Enhancing Young People’s Digital Competencies”
+
+## Contact
+
+Have a project in mind? Send me a short description and your preferred deadline.
+
+[Email](mailto:todorproichev7@gmail.com) · [Instagram](https://www.instagram.com/proichevvvvv_/) · [TikTok](https://www.tiktok.com/@proichevvvvv_)
