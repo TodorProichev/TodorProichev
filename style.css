@@ -30,7 +30,7 @@ h1 span{display:block;color:var(--lavender)}
 .section{border-top:1px solid var(--line);padding-block:clamp(2.6rem,6vw,4.5rem)}
 h2{font-size:clamp(2rem,4.2vw,3.35rem);line-height:1.08;letter-spacing:-.06em;margin-bottom:1.25rem}
 h3{font-size:1.13rem;letter-spacing:-.02em;margin-bottom:.5rem}
-.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem}
+.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
 .card{padding:1.35rem;border:1px solid var(--line);border-radius:1rem;background:var(--panel)}
 .card p,.section>p,.education li{color:var(--muted)}
 .card p{margin-bottom:0}

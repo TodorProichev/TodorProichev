@@ -1,16 +1,15 @@
 # Todor Proychev
 
-**Web Design · Video Editing · Image Creation & Retouching**
+**Video Editing · Image Creation & Retouching**
 
 [Portfolio website](https://todorproichev.github.io/TodorProichev/) · [English PDF](https://github.com/TodorProichev/TodorProichev/blob/main/Todor-Proychev-Portfolio.pdf) · [Български PDF](https://github.com/TodorProichev/TodorProichev/blob/main/Todor-Proychev-Portfolio-BG.pdf)
 
-I'm a creative freelancer. I help creators and businesses design websites, edit videos, and make visuals for the web and social media.
+I'm a creative freelancer. I help creators and businesses edit videos and make visuals for the web and social media.
 
 ## Services
 
 | Service | How I can help |
 | --- | --- |
-| **Web design** | Visual concepts and layouts for homepages, landing pages, and portfolio sites |
 | **Video editing** | Trimming and arranging footage, plus text and captions for Reels, TikTok, and YouTube Shorts |
 | **Image creation and editing** | Visuals, retouching, color correction, and resizing for different formats |
 
